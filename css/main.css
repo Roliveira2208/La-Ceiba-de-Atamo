@@ -280,6 +280,11 @@ nav a:hover {
           width: 57%;
       }
 
+      .main .thumbnail {
+        float: left;
+        width: 57%;
+    }
+
         .main aside {
             float: right;
             width: 28%;
